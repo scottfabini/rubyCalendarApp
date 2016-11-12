@@ -32,9 +32,11 @@ group :development, :test do
   gem 'byebug', platform: :mri
   gem 'spring'
   gem 'listen'
+
 end
 
 group :test do
+  gem 'rails-controller-testing'
   gem 'minitest-reporters'
   gem 'mini_backtrace'
   gem 'guard-minitest'
