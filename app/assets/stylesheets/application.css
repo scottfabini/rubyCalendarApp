@@ -10,8 +10,10 @@
  * files in this directory. Styles in this file should be added after the last require_* statement.
  * It is generally better to create a new file per style scope.
  *
+ *= require fullcalendar
  * // ensure that all CSS in the app/assets/stylesheets directory are included
  *= require_tree .
  * // specify where in the loading sequence the CSS in application.css itself gets included
  *= require_self
  */
+
