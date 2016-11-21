@@ -23,7 +23,7 @@ AppointmentBook (Calendar) Full Stack Web-App using Ruby on Rails and FullCalend
 
 4. Using a browser, go to `http://localhost:3000` and you'll see:
 
-![alt tag](http://web.cecs.pdx.edu/~sfabini/apptbook-js.png)
+![alt tag](http://web.cecs.pdx.edu/~sfabini/calendarApp.png)
 
 ## Contributors
 
